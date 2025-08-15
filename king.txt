@@ -1,6 +1,5 @@
 hello
 second line
 third line
-<<<<<<< HEAD
-=======
->>>>>>> e3e53f774700549dad7f69cf8cd70ac5de695d02
+fourth line
+fifth line
